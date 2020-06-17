@@ -1,5 +1,5 @@
 {
-  "port": 5000,
+  "port": 80,
   "jwtSecret": "Some secret value",
   "mongoUri": "mongodb+srv://Bexruz:pIxx5QS8SPNm5eLj@cluster0-yjzdx.mongodb.net/linkshorter",
   "baseUrl": "https://intense-shelf-10892.herokuapp.com/"

@@ -28,7 +28,7 @@ const PORT = process.env.PORT || 5000;
 
 async function start() {
   try {
-    await mongoose.connect(config.get('mongoUri'), {
+    await mongoose.connect(process.env.MONGODB_URI || 'mongodb+srv://Bexruz:pIxx5QS8SPNm5eLj@cluster0-yjzdx.mongodb.net/linkshorter', {
       useNewUrlParser: true,
       useUnifiedTopology: true,
       useCreateIndex: true,

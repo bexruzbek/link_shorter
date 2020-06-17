@@ -10,7 +10,7 @@ const router = Router();
 //access    private
 router.post('/generate', auth, async (req, res) => {
   try {
-    const baseUrl = 'https://sleepy-castle-44609.herokuapp.com';
+    const baseUrl = 'https://sokrsilk.herokuapp.com';
 
     const code = shortid.generate();
 

@@ -1,4 +1,4 @@
 {
   "jwtSecret": "Some secret value",
-  "mongoUri": "mongodb+srv://Bexruz:pIxx5QS8SPNm5eLj@cluster0-yjzdx.mongodb.net/linkshorter",
+  "mongoUri": "mongodb+srv://Bexruz:pIxx5QS8SPNm5eLj@cluster0-yjzdx.mongodb.net/linkshorter"
 }

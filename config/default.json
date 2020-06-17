@@ -1,0 +1,6 @@
+{
+  "port": 5000,
+  "jwtSecret": "Some secret value",
+  "mongoUri": "mongodb+srv://Bexruz:pIxx5QS8SPNm5eLj@cluster0-yjzdx.mongodb.net/linkshorter",
+  "baseUrl": "http://localhost:5000"
+}
